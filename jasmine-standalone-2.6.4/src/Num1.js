@@ -1,0 +1,8 @@
+function Num(){
+
+}
+
+
+Num.prototype = {
+
+}
